@@ -8,8 +8,6 @@
 
 ### Heavily inspired by Tensor Programming's Golang Blockchain series!
 
-<br />
-
 ## Description
 
 Mattchain is a blockchain I created using Golang!
@@ -36,8 +34,6 @@ Mattchain is a blockchain I created using Golang!
 ```bash
 go run main.go
 ```
-
-<br />
 
 ## Commands:
 
